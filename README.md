@@ -1,3 +1,6 @@
+Small Sidenote
+Anyways created this to fix the forge custom packet issues in the hexagonmc fork so i merged the https://github.com/dogboy21/BungeeCord/commit/84396969e63aa5710f41fb01505064a9fe39ff4b with the hexagonmc bungee and it seems to be working
+
 
 BungeeCord for 1.7/1.8/1.9/1.10/1.11/1.12
 ==========
@@ -20,3 +23,5 @@ This version is maintained by https://hexagonmc.eu
 ```
 Modules are automatically downloaded from the releases page.
 ```
+
+
